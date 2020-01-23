@@ -14,7 +14,7 @@
 
 Notes:
 
-[1] openCV_contrib is used to replace my A2 (not working) methods as adviced by Tim (T.A)
+[1] openCV_contrib is used
 
 [2] for extra_2 I used my own 3 images "S1.jpg" (left) "S2.jpg"(middle) "S3.jpg"(right), large images with few distinct features.
 
